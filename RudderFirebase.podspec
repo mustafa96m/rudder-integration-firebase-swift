@@ -19,6 +19,6 @@ Pod::Spec.new do |s|
     s.static_framework = true
     s.swift_version = '5.3'
 
-    s.dependency 'Rudder', '~> 2.2.2'
+    s.dependency 'Rudder', '~> 1.7.0'
     s.dependency 'FirebaseAnalytics', '~> 9.2.0'
 end
